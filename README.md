@@ -7,7 +7,7 @@ Price: The selling price of the property.
 Method: The method of sale (e.g., auction, private sale).
 SellerG: The seller’s agent or agency.
 Date: The date of sale.
-Distance: The distance of the property from the central business district (CBD).
+Distance: The property's distance from the central business district (CBD).
 Postcode: The postcode of the property.
 Bedroom2: The number of bedrooms.
 Bathroom: The number of bathrooms.
